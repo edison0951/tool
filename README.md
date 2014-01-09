@@ -1,4 +1,4 @@
 tool
 ====
 
-iOS Common Tool
+收集了iOS开发中常用的一些工具函数，
